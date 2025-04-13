@@ -1,0 +1,7 @@
+echo "# https-tonpseudo.github.io-powerbyte-" >> README.md 
+git init 
+git add README.md 
+git commit -m "premier commit" 
+git branch -M main 
+git remote add origine https://github.com/powerbyte-create/https-tonpseudo.github.io-powerbyte-.git
+ git push -u origine main
